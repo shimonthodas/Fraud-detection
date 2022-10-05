@@ -1,4 +1,4 @@
-# Credit Card Fraud Decetion With Machine Learning in Python 
+# Credit Card Fraud Detection With Machine Learning in Python 
 Steps Involved
 
 1. Importing the required packages into our python environment.
